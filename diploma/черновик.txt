@@ -1,0 +1,21 @@
+<!-- Модальное окно -->
+                <div class="modal fade" id="reglogModal" tabindex="-1" aria-labelledby="reglogModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="reglogModalLabel">Войти</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                    aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <p>Здесь будет форма</p>
+                                </form>
+                            </div>
+                            <div class="modal-footer">
+                                <p>А здесь кнопки</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
